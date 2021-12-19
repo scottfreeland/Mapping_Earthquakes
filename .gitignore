@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 # Ignore the config.js file.
-static\js\config.js
-style.css
+config.js
